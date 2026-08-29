@@ -15,7 +15,7 @@ def play():
     print(f"\n{name}, I think you are {guess} years old!")
     correct=input("Is that your age? y/n ")
     if correct == "y":
-        print(f"\nI win! You are {guess} years old")
+        print(f"\nI win! You are {guess} years old, {name}")
         game=False
         win=True
     elif correct == "n":

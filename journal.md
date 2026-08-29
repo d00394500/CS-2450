@@ -1,0 +1,1 @@
+8/29 I really want to learn more about how to make git actions/pipelines. I hope to learn more DevOps stuff that I might now learn in DevOps Lifecycle class
