@@ -1,1 +1,2 @@
 8/29 I really want to learn more about how to make git actions/pipelines. I hope to learn more DevOps stuff that I might now learn in DevOps Lifecycle class
+9/06 Added the structure apps that are needed for flask. I'm wondering if we still need the old name.py app? Maybe I can add it in another page? 
