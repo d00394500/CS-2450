@@ -3,3 +3,4 @@
 10/01 I haven't written in the journal for a few weeks. I didn't know we needed to since we haven't really had any assignments in our personal repository. I'll try to keep up with things I've learned. 
 
 10/08 tried out the agentic programming assignment and it was pretty fast. Unfortunately the only option it could make was not empty passwords/username but not very secure passwords. I could probably fix it easily but I didn't want to. 
+10/14 Missed out on the pair programming assignment due to a work meeting :( 
