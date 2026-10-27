@@ -4,3 +4,4 @@
 
 10/08 tried out the agentic programming assignment and it was pretty fast. Unfortunately the only option it could make was not empty passwords/username but not very secure passwords. I could probably fix it easily but I didn't want to. 
 10/14 Missed out on the pair programming assignment due to a work meeting :( 
+10/23 We haven't really had a lot of assignments to motivate my team to reach milestones in our website. My team forgets and ignores it, including myself. I didn't realize til the other day that we have to present our finalized website. Maybe this will change later? 
