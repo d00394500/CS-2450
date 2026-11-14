@@ -7,3 +7,4 @@
 10/23 We haven't really had a lot of assignments to motivate my team to reach milestones in our website. My team forgets and ignores it, including myself. I didn't realize til the other day that we have to present our finalized website. Maybe this will change later? 
 10/31 I finished the selenium tests today :) 
 11/7 I got to be scrum master this week and get to have a good scrum meeting where we talked about our goals and our vision for finishing the site. It seems we are getting close because our app is more simple than we planned. 
+11/14 Just got done doing a tf assignment in aws, it was pretty cool. We also got a done ton on our site this week. Things are looking really clean and professional right now. Just need to make a few more changes and we might actually have something to present. 
